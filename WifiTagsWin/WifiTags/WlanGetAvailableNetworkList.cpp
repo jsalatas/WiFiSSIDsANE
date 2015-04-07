@@ -1,10 +1,10 @@
-/*
-* WlanGetAvailableNetworkList.cpp
+/**
+* Copyright (C) 2015 John Salatas (jsalatas@gmail.com)
 *
-*  Created on: Mar 28, 2015
-*      Author: john
+* This program is free software; you can redistribute it and/or modify
+* it under the terms of the GNU Lesser General Public License v3 (LGPL-3)
+* as published by the Free Software Foundation.
 *
-*  Based on: https://msdn.microsoft.com/en-us/library/windows/desktop/ms706749%28v=vs.85%29.aspx
 */
 
 #ifndef UNICODE
